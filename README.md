@@ -42,11 +42,10 @@ I'm a final year IT student at DJSCE passionate about full-stack development, ar
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <div align="center">
-<a href="https://github.com/Shabbyrox">
-<img src="https://github-readme-stats.vercel.app/api?username=Shabbyrox&show_icons=true&theme=radium&rank_icon=github" alt="Shubham's GitHub Stats" />
-</a>
-<a href="https://github.com/Shabbyrox">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shabbyrox&layout=compact&theme=radium" alt="Top Languages" />
-</a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shabbyrox&theme=radium)](https://github.com/Shabbyrox)
+
 </div>
