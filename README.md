@@ -2,7 +2,7 @@
 
 I'm a final year IT student at DJSCE passionate about full-stack development, artificial intelligence, and building platforms that solve practical problems. 
 
-- 🔭 **I’m currently working on** **Cadence** (an AI-powered collaborative Kanban workspace that automates task generation from live meeting transcripts), a **High-Performance Image Encryption Engine** (a secure, multi-threaded Java image vault using a custom chaotic jitter algorithm).
+- 🔭 **I’m currently working on** **Cadence** (an AI-powered collaborative Kanban workspace that automates task generation from live meeting/stand ups), a **High-Performance Image Encryption Engine** (a secure, multi-threaded Java image vault using a custom chaotic jitter algorithm).
 - 🌱 **I’m currently learning** the architecture of scalable distributed systems and deep-diving into cloud computing.
 - 👯 **I’m looking to collaborate on** building impactful, real-world applications and actively contributing to open-source projects.
 - 💬 **Ask me about** Java, Spring Ecosystem, backend architecture, and System Design concepts.
