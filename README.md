@@ -7,7 +7,6 @@ I'm a final year IT student at DJSCE passionate about full-stack development, ar
 - 👯 **I’m looking to collaborate on** building impactful, real-world applications and actively contributing to open-source projects.
 - 💬 **Ask me about** Java, Spring Ecosystem, backend architecture, and System Design concepts.
 - 📫 **How to reach me:** https://www.linkedin.com/in/shubhamdebnath00/
-- 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I can architect scalable backend systems in Java, but I still confidently Google how to center a `div`.
 
   
@@ -39,8 +38,6 @@ I'm a final year IT student at DJSCE passionate about full-stack development, ar
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
-
-### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
 
